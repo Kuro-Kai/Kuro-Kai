@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuro-Kai
 - 👀 I’m interested in movies, music especially adele's songs
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on basically anything related to programming.
 - 📫 Reach me via email: kurokai3112@gmail.com
 
